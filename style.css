@@ -15,6 +15,11 @@ a {
   text-decoration: none;
 }
 
+.wrapper {
+  width: 1090px;
+  margin: 0 auto;
+}
+
 /*  ================== HEADER ========= */
 
 header {
@@ -56,7 +61,33 @@ li {
   list-decoration: none;
 }
 
-.wrapper {
-  width: 1090px;
+/*  ================== FOOTER ========= */
+
+footer {
+  margin-top: 235px;
+}
+
+#line {
   margin: 0 auto;
+  height: 0;
+  width: 52%;
+  border-top: 1px solid #00bfa6;
+}
+
+footer p {
+  text-align: center;
+  font: 500 14px/28px 'JetBrains Mono', monospace;
+  /* color: white; */
+}
+
+footer a {
+  color: #c2c2c2;
+}
+
+/*  ================== DECORATION ========= */
+
+#decoration {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
 }
