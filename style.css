@@ -2,3 +2,13 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background: #2c2b3d;
+  color: #c2c2c2;
+}
+
+.content {
+  width: 1090px;
+  margin: 0 auto;
+}
