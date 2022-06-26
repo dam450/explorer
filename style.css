@@ -3,12 +3,60 @@
   padding: 0;
 }
 
+/*  ================== BASE ========= */
+
 body {
   background: #2c2b3d;
   color: #c2c2c2;
+  font-family: 'Open Sans', sans-serif;
 }
 
-.content {
+a {
+  text-decoration: none;
+}
+
+/*  ================== HEADER ========= */
+
+header {
+  margin: 71px 0 101px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/*  ================== NAV ========= */
+
+nav,
+ul {
+  display: inherit;
+}
+
+nav ul {
+  gap: 64px;
+
+  list-style: none;
+}
+
+nav li {
+  color: white;
+  font: 500 14px/28px 'JetBrains Mono', monospace;
+}
+
+nav a {
+  color: white;
+}
+
+nav a:hover {
+  color: #00bfa6;
+  filter: drop-shadow(-6px 3px 8px green) brightness(1.15);
+}
+
+li {
+  list-decoration: none;
+}
+
+.wrapper {
   width: 1090px;
   margin: 0 auto;
 }
