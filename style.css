@@ -1,9 +1,10 @@
+/*  ================== BASE ========= */
+
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
-
-/*  ================== BASE ========= */
 
 body {
   background: #2c2b3d;
@@ -13,6 +14,12 @@ body {
 
 a {
   text-decoration: none;
+}
+
+a:hover {
+  color: #00bfa6;
+  font-weight: 700;
+  filter: drop-shadow(-6px 3px 8px green) brightness(1.15);
 }
 
 .wrapper {
@@ -39,7 +46,6 @@ ul {
 
 nav ul {
   gap: 64px;
-
   list-style: none;
 }
 
@@ -52,19 +58,42 @@ nav a {
   color: white;
 }
 
-nav a:hover {
-  color: #00bfa6;
-  filter: drop-shadow(-6px 3px 8px green) brightness(1.15);
-}
-
 li {
   list-decoration: none;
+}
+
+/*  ================== MAIN ========= */
+
+main {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+main .content {
+  text-align: center;
+}
+
+main h1 {
+  font: 700 36px/40px 'JetBrains Mono', monospace;
+  color: white;
+  margin-bottom: 59px;
+}
+
+main span {
+  color: #00bfa6;
+  font-weight: 700;
+}
+
+main p {
+  margin-bottom: 40px;
+  width: 604px;
 }
 
 /*  ================== FOOTER ========= */
 
 footer {
-  margin-top: 235px;
+  margin-top: 157px;
 }
 
 #line {
@@ -78,7 +107,6 @@ footer {
 footer p {
   text-align: center;
   font: 500 14px/28px 'JetBrains Mono', monospace;
-  /* color: white; */
 }
 
 footer a {
