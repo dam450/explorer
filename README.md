@@ -26,7 +26,7 @@ Linguagens e ferramentas utilizadas:
 
 ### 📄 Licença
 
-Esse projeto está sob a licença MIT. Consulte o arquivo [`LICENSE`](./LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo [`LICENSE`](./Licence.md) para mais detalhes.
 
 ---
 Made by 
