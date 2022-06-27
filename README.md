@@ -1,20 +1,30 @@
-![license]
-![v-techs]
-
 # Rocket.sect
+[![license] ![v-techs]](#)
+
+[Descrição](#-descrição)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp; 
+[Layout](#%EF%B8%8F-layout)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+[Tecnologias](#-tecnologias)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+[Licença](#-licença) &nbsp;&nbsp;&nbsp;
+
+### 📌 Descrição
 
 Desafio recriando layout do treinamento `Explorer` da @Rocketseat.
 
-[Acesse a página aqui.](https://dam450.github.io/rocket-sect/)
+[A versão final do projeto pode ser vista neste link.](https://dam450.github.io/rocket-sect/)
 
-### Layout
+### 🎞️ Layout
 
 [![figma-preview]](https://www.figma.com/file/rAxMgisZANKbMJed7evBfl?embed_host=share&kind=&node-id=0%3A1&viewer=1)
 
 
+### 🧰 Tecnologias 
+
+Linguagens e ferramentas utilizadas:
+
+[![HTML-Badge][html5] ![CSS-Badge][css3]](#)
 
 
-### Licença
+### 📄 Licença
 
 Esse projeto está sob a licença MIT. Consulte o arquivo [`LICENSE`](./LICENSE.md) para mais detalhes.
 
