@@ -21,7 +21,7 @@ Esse projeto está sob a licença MIT. Consulte o arquivo [`LICENSE`](./LICENSE.
 ---
 Made by 
 
-![gh-tag]
+[![gh-tag]](https://github.com/dam450/)
 
 <!-- Images -->
 [figma-preview]: https://github.com/dam450/rocket-sect/blob/8263e4cf8a28cec9a7d44e2ef556a46b80aced94/.github/20220626-205920-001.jpg "Figma preview"
