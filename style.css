@@ -1,0 +1,21 @@
+:root {
+  /* color vars */
+  --title-color: #3F3D56;
+  --accent-color: #EE24FF;
+  --text-color: #828282;
+  --other-color: #ECEFF2;
+
+  /* resetting */
+  font-size: 62.5%;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16rem;
+}
+
+body {
+  font-family: 'Open Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
