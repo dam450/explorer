@@ -13,12 +13,10 @@
   </a>
 </p>
 
-
-
 ## 🚀 Deploy
 
-<p align="center">
-  <a href="#">
+<p align="center"><br/>
+  <a href="https://dam450.github.io/rseat-flutuar/">
     <img src="./.github/preview.png" />
   </a>
 </p>
@@ -27,7 +25,7 @@ O projeto está hospedado no Github Pages e pode ser acessado através do link [
 
 ## 🦾 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes linguagens:
 
 - HTML 
 - CSS
@@ -41,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto de Landing Page de uma agencia de turismo (Parte do treinamento Explorer da Rocketseat).
+Projeto de Landing Page de uma agência de turismo (Parte do treinamento Explorer da Rocketseat).
 
 ## 🔖 Layout
 
