@@ -87,6 +87,8 @@ footer ul {
   margin-bottom: 1rem;
   padding: 1.6rem;
   width: min(80%, 40rem);
+
+  list-style: none;
 }
 
 footer ul li {
