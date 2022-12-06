@@ -45,7 +45,7 @@ Projeto de Landing Page de uma agencia de turismo (Parte do treinamento Explorer
 
 ## 🔖 Layout
 
-Você pode visualizar o layout Figma criado para esse projeto através [DESSE LINK](https://www.figma.com/file/DZfLmza1FLH7QlmmOEwIUP/Rocket-Links---Maratona-Explorer-2.0-(Community)-(Copy)?node-id=0%3A1&t=hf4ICtKCW54Ebk7A-0&viewer=1).
+Você pode visualizar o layout Figma criado para esse projeto através [DESSE LINK](https://www.figma.com/file/jbxxgoHyL5q6RGklMq0tup/Projeto01-Extra-(Stage-2)?node-id=0%3A1&viewer=1).
 
 ## :memo: Licença
 
